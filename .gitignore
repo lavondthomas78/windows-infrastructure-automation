@@ -1,0 +1,18 @@
+# Ignore future generated CSV reports
+Reports/*.csv
+
+# Keep the curated portfolio sample reports
+!Reports/Computer-Inventory_2026-09-08_1040.csv
+!Reports/Disk-Health_DC01_2026-09-08_0946.csv
+!Reports/Domain-Controllers_2026-09-08_1057.csv
+!Reports/Domain-Health_2026-09-08_1057.csv
+!Reports/Server-Health_DC01_2026-09-08_0946.csv
+!Reports/Service-Health_DC01_2026-09-08_1020.csv
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# PowerShell/editor temporary files
+*.tmp
+*.bak
