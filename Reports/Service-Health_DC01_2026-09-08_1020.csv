@@ -1,0 +1,6 @@
+"Name","DisplayName","Status","StartType","Health"
+"DNS","DNS Server","Running","Automatic","HEALTHY"
+"KDC","Kerberos Key Distribution Center","Running","Automatic","HEALTHY"
+"Netlogon","Netlogon","Running","Automatic","HEALTHY"
+"NTDS","Active Directory Domain Services","Running","Automatic","HEALTHY"
+"W32Time","Windows Time","Running","Automatic","HEALTHY"

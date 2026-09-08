@@ -1,0 +1,2 @@
+"ComputerName","OperatingSystem","OSVersion","LastBootTime","UptimeDays","TotalMemoryGB","UsedMemoryGB","FreeMemoryGB","MemoryUsedPercent","MemoryStatus"
+"DC01","Microsoft Windows Server 2025 Standard Evaluation","10.0.26100","9/4/2026 5:16:33 PM","3.69","2","1.81","0.19","90.5","CRITICAL"

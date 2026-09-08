@@ -1,0 +1,3 @@
+"Name","IPv4Address","Site","IsGlobalCatalog"
+"DC01.Royalty.Local","192.168.0.20","Default-First-Site-Name","True"
+"BDC01.Royalty.Local","192.168.0.22","Default-First-Site-Name","True"
